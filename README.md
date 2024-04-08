@@ -1,9 +1,3 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-# Calculator Layout Boss Challenge
-
-No knowledge is your own until you put it into practice. Using what you've learnt about auto layout, stack views and setting constraints, create the following UI. 
-
 ## Portrait
 
 ![Portrait](Documentation/Portrait.png)
@@ -18,8 +12,6 @@ Bronze Medal: If you can figure out how to have the layout be constrained to the
 Silver Medal: If you can figure out how to indent the Label with the 0 so that there is 20px distance from the right edge of the screen.
 
 Gold Medal: If you can figure out how to make the 0 button take up twice as much width as the "." and "=" buttons.
-
-If you get stuck, check out the solution video in the next lesson.
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
