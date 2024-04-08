@@ -1,3 +1,8 @@
+## Preview
+
+<img width="559" alt="Screenshot 2024-04-09 at 05 20 05" src="https://github.com/RakhaGalih/Calculator-Layout-iOS13/assets/54633534/a166a10a-5a23-4390-b6cb-41db7d2a466f">
+<img width="1000" alt="Screenshot 2024-04-09 at 05 20 31" src="https://github.com/RakhaGalih/Calculator-Layout-iOS13/assets/54633534/a583e2ac-1dea-4d85-82a2-6b592ef4ed3a">
+
 ## Portrait
 
 ![Portrait](Documentation/Portrait.png)
